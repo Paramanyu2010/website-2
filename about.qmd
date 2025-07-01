@@ -3,5 +3,7 @@ title: "About"
 ---
 
 ## About Me
-My name is **Paramanyu Gupta** and I'm going to be a sophomore this year at *Independence High School.*
+
+My name is **Paramanyu Gupta**, and I'm going to be a sophomore this year at *Independence High School.*
+
 [Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
